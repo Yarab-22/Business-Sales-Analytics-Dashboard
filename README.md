@@ -1,8 +1,8 @@
 # Business Sales Analytics Dashboard  
 
 ## 📌 Project Overview  
-This project simulates a real-world data analysis task for **Atliq Hardwares**, a computer hardware company facing challenges in increasing revenue in a competitive market.  
-As a **Data Analyst**, the goal was to design an **interactive Power BI dashboard** that provides actionable insights into revenue, sales trends, markets, customers, and product performance.  
+This project simulates a real-world data analysis task for a computer hardware company facing challenges in increasing revenue in a competitive market.  
+The goal was to design an **interactive Power BI dashboard** that provides actionable insights into revenue, sales trends, markets, customers, and product performance.  
 
 The dataset contained **40,000+ transactions**, which required extensive **data cleaning, wrangling, and modeling** before building the dashboard.  
 
@@ -15,7 +15,7 @@ The dataset contained **40,000+ transactions**, which required extensive **data 
   - Revenue growth & trends  
   - Region-wise sales & performance  
   - Top customers and products  
-- Provide actionable insights for the **Sales Director** to make data-driven decisions.  
+- Provide actionable insights to make data-driven decisions.  
 
 ---
 
